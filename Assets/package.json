@@ -1,0 +1,22 @@
+{
+    "name": "co.studiomana.core",
+    "version": "0.0.1",
+    "displayName": "Studio Mana Core Library",
+    "description": "A library of extensions and utilties common to all Studio Mana packages",
+    "unity": "2020.1",
+    "unityRelease": "0f1",
+    "documentationUrl": "https://studiomana.com/",
+    "keywords": 
+    [
+        "Utility",
+        "Studio Mana",
+        "Core"
+    ],
+    "author": 
+    {
+        "name": "Cameron Owen",
+        "email": "cameron@studiomana.co",
+        "url": "https://www.studiomana.co"
+    }
+  }
+  
